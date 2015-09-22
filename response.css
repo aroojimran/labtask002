@@ -1,0 +1,33 @@
+
+.arooj div {
+display:none
+}
+
+
+#haha {
+    float: left;
+}
+
+#haha2 {
+    float : left;
+}
+
+
+#haha3 {
+    float:left;
+}
+body {
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+
+
+}
+
+
+.arooj div:target{
+display:block}
+
